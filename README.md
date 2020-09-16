@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/JacobGrisham/JacobGrisham/JacobGrisham/thumbnail.png)](https://jacobgrisham.com)
+![Header](imgs/thumbnail.png)
 ### Hi there 👋
 My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'm currently in San Francisco learning software engineering and working as an Environmental Scientist.
 
