@@ -8,9 +8,10 @@ Inkscape	    |HTML5	    |Node.js  |Mongoose  |AWS	         |Jest       |CircleCI
 AdobeXD			  |CSS3		    |ExpressJS|MongoDB   |Heroku       |Jasmine    |CodeClimate
 .			        |Bootstrap 4|EJS	    |Redis		 |Nginx		     |Lighthouse |Codacy
 .			        |Javascript |Python		|PostgreSQL|MongoDB Atlas|.          |Docker
-.             |React      |Django   |MySQL     |Git          |.          |Webpack
-.             |Redux      |Flask    |.         |             |.          |.
-.             |.          |C        |.         |.            |.          |.
+.             |Typscript  |Django   |MySQL     |Git          |.          |Webpack
+.             |jQuery     |Flask    |.         |             |.          |.
+.             |React      |C        |.         |.            |.          |.
+.             |Redux      |.        |.         |.            |.          |.
 
 ## 📊 Github Stats
 [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=3&theme=prussian)](https://github.com/JacobGrisham/github-readme-stats)
