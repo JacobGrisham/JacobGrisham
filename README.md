@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/JacobGrisham/JacobGrisham/JacobGrisham/thumbnail.png)](https://jacobgrisham.com)
 ### Hi there 👋
 My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'm currently in San Francisco learning software engineering and working as an Environmental Scientist.
 
@@ -14,7 +15,9 @@ AdobeXD			  |CSS3		    |ExpressJS|MongoDB   |Heroku       |Jasmine    |CodeClima
 .             |Redux      |.        |.         |.            |.          |.
 
 ## 📊 Github Stats
-[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=3&theme=prussian)](https://github.com/JacobGrisham/github-readme-stats)
+[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=4&theme=prussian)](https://github.com/JacobGrisham/github-readme-stats)
 
 ## 🏆 Repository Showcase
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/github-readme-stats)
+
+Other repositories are projects from online courses.
