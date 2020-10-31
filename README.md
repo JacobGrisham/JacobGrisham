@@ -9,7 +9,7 @@ My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'
 
 ## 👩‍🏫 Noteworthy Projects From Courses
 
-### Harvard's CS50: Introduction to Computer Science hosted on eDX
+### Harvard's CS50: Introduction to Computer Science
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Text-Analysis-Arrays-using-C&theme=prussian)](https://github.com/JacobGrisham/Text-Analysis-Arrays-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Encryption-Arrays-using-C&theme=prussian)](https://github.com/JacobGrisham/Encryption-Arrays-using-C)
 
