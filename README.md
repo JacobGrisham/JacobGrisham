@@ -8,21 +8,14 @@ My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/YelpCamp)
 
 ## 👩‍🏫 Noteworthy Projects From Courses
+Organized from most recent to least
 
 ### Harvard's CS50: Introduction to Computer Science
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Text-Analysis-Arrays-using-C&theme=prussian)](https://github.com/JacobGrisham/Text-Analysis-Arrays-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Encryption-Arrays-using-C&theme=prussian)](https://github.com/JacobGrisham/Encryption-Arrays-using-C)
 
-### Web Developer Bootcamp
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Introduction-to-API-s&theme=prussian)](https://github.com/JacobGrisham/Introduction-to-API-s)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&theme=prussian)](https://github.com/JacobGrisham/Authentication)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&theme=prussian)](https://github.com/JacobGrisham/Advanced-Express.js)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&theme=prussian)](https://github.com/JacobGrisham/RESTful-Routing)
-
-### Advanced CSS and Sass
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Float-Layout-with-Advanced-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Flexbox-Layout-with-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Flexbox-Layout-with-Responsive-Design)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Grid-Layout-with-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Grid-Layout-with-Responsive-Design)
+### Junior to Senior Roadmap
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=CircleCI&theme=prussian)](https://github.com/JacobGrisham/CircleCI)
 
 ### Complete Web Developer Bootcamp
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript&theme=prussian)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript)
@@ -30,8 +23,16 @@ My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Fundamentals&theme=prussian)](https://github.com/JacobGrisham/React.js-Fundamentals)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced&theme=prussian)](https://github.com/JacobGrisham/React.js-Advanced)
 
-### Junior to Senior Roadmap
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=CircleCI&theme=prussian)](https://github.com/JacobGrisham/CircleCI)
+### Advanced CSS and Sass
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Float-Layout-with-Advanced-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Flexbox-Layout-with-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Flexbox-Layout-with-Responsive-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Grid-Layout-with-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Grid-Layout-with-Responsive-Design)
+
+### Web Developer Bootcamp
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Introduction-to-API-s&theme=prussian)](https://github.com/JacobGrisham/Introduction-to-API-s)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&theme=prussian)](https://github.com/JacobGrisham/Authentication)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&theme=prussian)](https://github.com/JacobGrisham/Advanced-Express.js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&theme=prussian)](https://github.com/JacobGrisham/RESTful-Routing)
 
 ## 🛠 Technologies
 Graphic Design|Front-End  |Back-End |Database  |Deployment   |Testing    |Dev-Ops
