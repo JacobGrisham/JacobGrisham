@@ -11,6 +11,10 @@ My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'
 Organized from most recent to least
 
 ### Harvard's CS50: Introduction to Computer Science
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DNA-Identification-Alogrithm-using-Python&theme=prussian)](https://github.com/JacobGrisham/DNA-Identification-Alogrithm-using-Python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Spell-Checker-and-Data-Structures-using-C&theme=prussian)](https://github.com/JacobGrisham/Spell-Checker-and-Data-Structures-using-C)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Photo-Filters-and-Memory-using-C&theme=prussian)](https://github.com/JacobGrisham/Photo-Filters-and-Memory-using-C)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Photo-Recovery-and-Memory-using-C&theme=prussian)](https://github.com/JacobGrisham/Photo-Recovery-and-Memory-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Text-Analysis-Arrays-using-C&theme=prussian)](https://github.com/JacobGrisham/Text-Analysis-Arrays-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Encryption-Arrays-using-C&theme=prussian)](https://github.com/JacobGrisham/Encryption-Arrays-using-C)
 
@@ -42,9 +46,7 @@ AdobeXD			  |CSS3		    |ExpressJS|MongoDB   |Heroku       |Jasmine    |CodeClima
 .			        |Bootstrap 4|EJS	    |Redis		 |Nginx		     |Lighthouse |Codacy
 .			        |Sass       |Python		|PostgreSQL|MongoDB Atlas|.          |Docker
 .             |Javascript |Django   |MySQL     |Git          |.          |Webpack
-.             |Typscript  |Flask    |.         |.            |.          |Git
+.             |Typscript  |Flask    |SQLite    |.            |.          |Git
 .             |jQuery     |.        |.         |.            |.          |Github
 .             |React      |.        |.         |.            |.          |.
 .             |Redux      |.        |.         |.            |.          |.
-
-![Header](imgs/thumbnail.png)
