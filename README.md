@@ -8,6 +8,7 @@ My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'
 Organized from most recent to least
 
 ### Harvard's CS50: Introduction to Computer Science
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DNA-Identification-Alogrithm-using-Python&theme=prussian)](https://github.com/JacobGrisham/DNA-Identification-Alogrithm-using-Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Spell-Checker-and-Data-Structures-using-C&theme=prussian)](https://github.com/JacobGrisham/Spell-Checker-and-Data-Structures-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Photo-Filters-and-Memory-using-C&theme=prussian)](https://github.com/JacobGrisham/Photo-Filters-and-Memory-using-C)
