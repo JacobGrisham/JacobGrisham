@@ -1,9 +1,6 @@
 ## Hi there 👋
 My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'm currently in San Francisco learning software engineering and working as an Environmental Scientist.
 
-## 📊 Github Stats
-[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=4&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham)
-
 ## 🏆 Project Showcase
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/YelpCamp)
 
@@ -37,6 +34,9 @@ Organized from most recent to least
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&theme=prussian)](https://github.com/JacobGrisham/Authentication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&theme=prussian)](https://github.com/JacobGrisham/Advanced-Express.js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&theme=prussian)](https://github.com/JacobGrisham/RESTful-Routing)
+
+## 📊 Github Stats
+[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=4&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham)
 
 ## 🛠 Technologies
 Graphic Design|Front-End  |Back-End |Database  |Deployment   |Testing    |Dev-Ops
