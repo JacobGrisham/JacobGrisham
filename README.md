@@ -5,10 +5,10 @@ My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/YelpCamp)
 
 ## 👩‍🏫 Noteworthy Projects From Courses
-Organized from most recent to least
+Courses, and the projects within those courses, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and what technology I used.
 
 ### Harvard's CS50W: Web Programming with Python and JavaScript
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Google-Homepage-HTML-and-CSS&theme=prussian)](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
 
 ### Harvard's CS50X: Introduction to Computer Science
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite)
