@@ -12,6 +12,7 @@ Courses, and the projects within those courses, are organized from most recent t
 
 ### Harvard's CS50X: Introduction to Computer Science
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Star-Wars-Front-End-Web-App-using-Flask&theme=prussian)](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DNA-Identification-Algorithm-using-Python&theme=prussian)](https://github.com/JacobGrisham/DNA-Identification-Algorithm-using-Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Spell-Checker-Data-Structures-using-C&theme=prussian)](https://github.com/JacobGrisham/Spell-Checker-Data-Structures-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Photo-Filters-and-Memory-using-C&theme=prussian)](https://github.com/JacobGrisham/Photo-Filters-and-Memory-using-C)
