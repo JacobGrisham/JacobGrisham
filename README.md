@@ -24,20 +24,20 @@ Courses, and the projects within those courses, are organized from most recent t
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=CircleCI&theme=prussian)](https://github.com/JacobGrisham/CircleCI)
 
 ### Complete Web Developer Bootcamp
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript&theme=prussian)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript-and-Jquery&theme=prussian)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript-and-Jquery)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Fundamentals&theme=prussian)](https://github.com/JacobGrisham/React.js-Fundamentals)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced&theme=prussian)](https://github.com/JacobGrisham/React.js-Advanced)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Fundamentals&theme=prussian)](https://github.com/JacobGrisham/React.js-Fundamentals)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript-and-Jquery&theme=prussian)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript-and-Jquery)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript&theme=prussian)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript)
 
 ### Advanced CSS and Sass
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Float-Layout-with-Advanced-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Flexbox-Layout-with-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Flexbox-Layout-with-Responsive-Design)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Grid-Layout-with-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Grid-Layout-with-Responsive-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Flexbox-Layout-with-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Flexbox-Layout-with-Responsive-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Float-Layout-with-Advanced-Responsive-Design&theme=prussian)](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
 
 ### Web Developer Bootcamp
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&theme=prussian)](https://github.com/JacobGrisham/Advanced-Express.js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Introduction-to-API-s&theme=prussian)](https://github.com/JacobGrisham/Introduction-to-API-s)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&theme=prussian)](https://github.com/JacobGrisham/Authentication)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&theme=prussian)](https://github.com/JacobGrisham/Advanced-Express.js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&theme=prussian)](https://github.com/JacobGrisham/RESTful-Routing)
 
 ## 📊 Github Stats
