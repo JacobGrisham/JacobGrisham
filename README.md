@@ -2,6 +2,7 @@
 My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'm currently in San Francisco learning software engineering and working as an Environmental Scientist.
 
 ## 🏆 Project Showcase
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&theme=prussian)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/YelpCamp)
 
 ## 👩‍🏫 Noteworthy Projects From Courses
