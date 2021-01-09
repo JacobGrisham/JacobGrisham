@@ -3,10 +3,10 @@ My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'
 
 ## 🏆 Project Showcase
 <a href="https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham/&repo=Data-Structures-and-Algorithms-Visualizer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer" />
 </a>
 <a href="https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham/&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite" />
 </a>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&theme=prussian)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
