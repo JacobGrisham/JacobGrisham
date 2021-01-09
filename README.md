@@ -2,7 +2,16 @@
 My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'm currently in San Francisco learning software engineering and working as an Environmental Scientist.
 
 ## 🏆 Project Showcase
+<a href="https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham/&repo=Data-Structures-and-Algorithms-Visualizer" />
+</a>
+<a href="https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham/&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite" />
+</a>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&theme=prussian)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Star-Wars-Front-End-Web-App-using-Flask&theme=prussian)](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/YelpCamp)
 
 ## 👩‍🏫 Noteworthy Projects From Courses
@@ -12,8 +21,6 @@ Courses, and the projects within those courses, are organized from most recent t
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Google-Homepage-HTML-and-CSS&theme=prussian)](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
 
 ### Harvard's CS50X: Introduction to Computer Science
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Star-Wars-Front-End-Web-App-using-Flask&theme=prussian)](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DNA-Identification-Algorithm-using-Python&theme=prussian)](https://github.com/JacobGrisham/DNA-Identification-Algorithm-using-Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Spell-Checker-Data-Structures-using-C&theme=prussian)](https://github.com/JacobGrisham/Spell-Checker-Data-Structures-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Photo-Filters-and-Memory-using-C&theme=prussian)](https://github.com/JacobGrisham/Photo-Filters-and-Memory-using-C)
