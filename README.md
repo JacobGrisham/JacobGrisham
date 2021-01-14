@@ -2,8 +2,10 @@
 My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'm currently in San Francisco learning software engineering and working as an Environmental Scientist.
 
 ## 🏆 Project Showcase
+Projects are organized from most recent to least
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&theme=prussian)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQLite&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQLite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&theme=prussian)](https://github.com/JacobGrisham/Professional-Portfolio)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Star-Wars-Front-End-Web-App-using-Flask&theme=prussian)](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/YelpCamp)
 
@@ -43,16 +45,3 @@ Courses, and the projects within those courses, are organized from most recent t
 
 ## 📊 Github Stats
 [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=4&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham)
-
-## 🛠 Technologies
-Graphic Design|Front-End  |Back-End |Database  |Deployment   |Testing    |Dev-Ops
-------------- | --------- | ------- | ---------| ----------- | --------- | ----------
-Inkscape	    |HTML5	    |Node.js  |Mongoose  |AWS	         |Jest       |CircleCI
-AdobeXD			  |CSS3		    |ExpressJS|MongoDB   |Heroku       |Jasmine    |CodeClimate
-.			        |Bootstrap 4|EJS	    |Redis		 |Nginx		     |Lighthouse |Codacy
-.			        |Sass       |Python		|PostgreSQL|MongoDB Atlas|.          |Docker
-.             |Javascript |Django   |MySQL     |Git          |.          |Webpack
-.             |Typscript  |Flask    |SQLite    |.            |.          |Git
-.             |jQuery     |.        |.         |.            |.          |Github
-.             |React      |.        |.         |.            |.          |.
-.             |Redux      |.        |.         |.            |.          |.
