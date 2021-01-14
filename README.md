@@ -46,4 +46,3 @@ Courses, and the projects within those courses, are organized from most recent t
 
 ## 📊 Github Stats
 [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=4&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham)
-[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=4&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham)
