@@ -45,4 +45,4 @@ Courses, and the projects within those courses, are organized from most recent t
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&theme=prussian)](https://github.com/JacobGrisham/RESTful-Routing)
 
 ## 📊 Github Stats
-[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&langs_count=4&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham)
+[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&layout=compact&theme=prussian)](https://github.com/JacobGrisham/JacobGrisham)
