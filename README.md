@@ -2,21 +2,21 @@
 My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'm currently in San Francisco learning software engineering and working as an Environmental Scientist.
 
 ## 🏆 Project Showcase
-Projects are organized from most recent to least
+Full-stack web applications with responsive CSS, tests, and CI/CD to a cloud server. Projects are organized from most recent to least
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&theme=prussian)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&theme=prussian)](https://github.com/JacobGrisham/Professional-Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Star-Wars-Front-End-Web-App-using-Flask&theme=prussian)](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/YelpCamp)
 
 ## 👩‍🏫 Noteworthy Projects From Courses
-Courses, and the projects within those courses, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and what technology I used.
+Programs that focus on learning computer science concepts or front-end web applications that focus on learning web development technologies. Courses, and the projects within them, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and what technology I used.
 
 ### Harvard's CS50W: Web Programming with Python and JavaScript
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Google-Homepage-HTML-and-CSS&theme=prussian)](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
 
 ### Harvard's CS50X: Introduction to Computer Science
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Star-Wars-Front-End-Web-App-using-Flask&theme=prussian)](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DNA-Identification-Algorithm-using-Python&theme=prussian)](https://github.com/JacobGrisham/DNA-Identification-Algorithm-using-Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Spell-Checker-Data-Structures-using-C&theme=prussian)](https://github.com/JacobGrisham/Spell-Checker-Data-Structures-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Photo-Filters-and-Memory-using-C&theme=prussian)](https://github.com/JacobGrisham/Photo-Filters-and-Memory-using-C)
