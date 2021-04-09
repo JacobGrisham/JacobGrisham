@@ -13,6 +13,9 @@ Full-stack web applications with responsive CSS, tests, and CI/CD to a cloud ser
 Programs that focus on learning computer science concepts or front-end web applications that focus on learning web development technologies. Courses, and the projects within them, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and what technology I used.
 
 ### Harvard's CS50W: Web Programming with Python and JavaScript
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&theme=prussian)](https://github.com/JacobGrisham/Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&theme=prussian)](https://github.com/JacobGrisham/Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Commerce-Full-Stack-Web-App-using-Django&theme=prussian)](https://github.com/JacobGrisham/Commerce-Full-Stack-Web-App-using-Django)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Wiki-Full-Stack-Web-App-using-Django&theme=prussian)](https://github.com/JacobGrisham/Wiki-Full-Stack-Web-App-using-Django)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Google-Homepage-HTML-and-CSS&theme=prussian)](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
 
