@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Jacob Grisham and I'm a Software Development Engineer in Training. I'm currently in San Francisco learning software engineering and working as an Environmental Scientist.
+My name is Jacob Grisham and I'm a Full-Stack Software Engineer. I'm currently in San Francisco developing software and working as an Environmental Scientist.
 
 ## 🏆 Project Showcase
 Projects are organized from most recent to least
@@ -14,6 +14,7 @@ Projects are organized from most recent to least
 Courses, and the projects within those courses, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and what technology I used.
 
 ### Harvard's CS50W: Web Programming with Python and JavaScript
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Wiki-Full-Stack-Web-App-using-Django&theme=prussian)](https://github.com/JacobGrisham/Wiki-Full-Stack-Web-App-using-Django)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Google-Homepage-HTML-and-CSS&theme=prussian)](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
 
 ### Harvard's CS50X: Introduction to Computer Science
