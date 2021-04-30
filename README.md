@@ -1,8 +1,8 @@
 ## Hi there 👋
-My name is Jacob Grisham and I'm a Full-Stack Software Engineer. I'm currently in San Francisco developing software and working as an Environmental Scientist.
+My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco.
 
 ## 🏆 Project Showcase
-Full-stack web applications with responsive CSS, tests, and CI/CD to a cloud server. Projects are organized from most recent to least
+Full-stack web applications with responsive CSS, tests, and CI/CD to a cloud server. Projects are organized from most recent to least.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&theme=prussian)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&theme=prussian)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
@@ -10,7 +10,7 @@ Full-stack web applications with responsive CSS, tests, and CI/CD to a cloud ser
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&theme=prussian)](https://github.com/JacobGrisham/YelpCamp)
 
 ## 👩‍🏫 Noteworthy Projects From Courses
-Programs that focus on learning computer science concepts or front-end web applications that focus on learning web development technologies. Courses, and the projects within them, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and what technology I used.
+Programs that focus on learning computer science concepts or web development technologies. Courses, and the projects within them, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and/or what technologies I used.
 
 ### Harvard's CS50W: Web Programming with Python and JavaScript
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&theme=prussian)](https://github.com/JacobGrisham/Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
@@ -28,7 +28,7 @@ Programs that focus on learning computer science concepts or front-end web appli
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Text-Analysis-Arrays-using-C&theme=prussian)](https://github.com/JacobGrisham/Text-Analysis-Arrays-using-C)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Encryption-Arrays-using-C&theme=prussian)](https://github.com/JacobGrisham/Encryption-Arrays-using-C)
 
-### Junior to Senior Roadmap
+### Junior to Senior Web Developer
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Next.js-Docker-Redis-Sessions-JWT&theme=prussian)](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced-Hooks-and-Redux&theme=prussian)](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
 
