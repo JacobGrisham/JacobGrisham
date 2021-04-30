@@ -4,20 +4,20 @@ My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco
 # 🏆 Project Showcase
 Full-stack web applications with responsive CSS, tests, and CI/CD to a cloud server. Projects are organized from most recent to least.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=30,F7971E,FFD200)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&title_color=fff&text_color=fff&bg_color=30,F7971E,FFD200)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&title_color=fff&text_color=fff&bg_color=30,F7971E,FFD200)](https://github.com/JacobGrisham/Professional-Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&title_color=fff&text_color=fff&bg_color=30,F7971E,FFD200)](https://github.com/JacobGrisham/YelpCamp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=0E1218&border_color=FFD200)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&title_color=fff&text_color=fff&bg_color=0E1218&border_color=FFD200)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&title_color=fff&text_color=fff&bg_color=0E1218&border_color=FFD200)](https://github.com/JacobGrisham/Professional-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&title_color=fff&text_color=fff&bg_color=0E1218&border_color=FFD200)](https://github.com/JacobGrisham/YelpCamp)
 
 # 👩‍🏫 Noteworthy Projects From Courses
 Programs that focus on learning computer science concepts or web development technologies. Courses, and the projects within them, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and/or what technologies I used.
 
 ## Harvard's CS50W: Web Programming with Python and JavaScript
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&border_color=ED213A)](https://github.com/JacobGrisham/Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&border_color=ED213A)](https://github.com/JacobGrisham/Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Commerce-Full-Stack-Web-App-using-Django&border_color=ED213A)](https://github.com/JacobGrisham/Commerce-Full-Stack-Web-App-using-Django)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Wiki-Full-Stack-Web-App-using-Django&border_color=ED213A)](https://github.com/JacobGrisham/Wiki-Full-Stack-Web-App-using-Django)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Google-Homepage-HTML-and-CSS&border_color=ED213A)](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&title_color=fff&text_color=fff&bg_color=30,ED213A,93291E)](https://github.com/JacobGrisham/Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&title_color=fff&text_color=fff&bg_color=30,ED213A,93291E)](https://github.com/JacobGrisham/Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Commerce-Full-Stack-Web-App-using-Django&title_color=fff&text_color=fff&bg_color=30,ED213A,93291E)](https://github.com/JacobGrisham/Commerce-Full-Stack-Web-App-using-Django)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Wiki-Full-Stack-Web-App-using-Django&title_color=fff&text_color=fff&bg_color=30,ED213A,93291E)](https://github.com/JacobGrisham/Wiki-Full-Stack-Web-App-using-Django)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Google-Homepage-HTML-and-CSS&title_color=fff&text_color=fff&bg_color=30,ED213A,93291E)](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
 
 ## Harvard's CS50X: Introduction to Computer Science
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Star-Wars-Front-End-Web-App-using-Flask&title_color=fff&text_color=fff&bg_color=30,ED213A,93291E)](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
