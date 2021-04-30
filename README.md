@@ -29,25 +29,25 @@ Programs that focus on learning computer science concepts or web development tec
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Encryption-Arrays-using-C&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Encryption-Arrays-using-C)
 
 ## Junior to Senior Web Developer
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Next.js-Docker-Redis-Sessions-JWT&title_color=fff&text_color=fff&bg_color=30373C&border_color=b20a2c)](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced-Hooks-and-Redux&title_color=fff&text_color=fff&bg_color=30373C&border_color=b20a2c)](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Next.js-Docker-Redis-Sessions-JWT&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced-Hooks-and-Redux&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
 
 ## Complete Web Developer Bootcamp
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced&&title_color=fff&text_color=fff&bg_color=30373C&border_color=4b6cb7)](https://github.com/JacobGrisham/React.js-Advanced)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Fundamentals&&title_color=fff&text_color=fff&bg_color=30373C&border_color=4b6cb7)](https://github.com/JacobGrisham/React.js-Fundamentals)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript-and-Jquery&&title_color=fff&text_color=fff&bg_color=30373C&border_color=4b6cb7)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript-and-Jquery)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript&&title_color=fff&text_color=fff&bg_color=30373C&border_color=4b6cb7)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced&&title_color=fff&text_color=fff&bg_color=30373C&border_color=00c6ff)](https://github.com/JacobGrisham/React.js-Advanced)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Fundamentals&&title_color=fff&text_color=fff&bg_color=30373C&border_color=00c6ff)](https://github.com/JacobGrisham/React.js-Fundamentals)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript-and-Jquery&&title_color=fff&text_color=fff&bg_color=30373C&border_color=00c6ff)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript-and-Jquery)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript&&title_color=fff&text_color=fff&bg_color=30373C&border_color=00c6ff)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript)
 
 ## Advanced CSS and Sass
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Grid-Layout-with-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=182848)](https://github.com/JacobGrisham/Grid-Layout-with-Responsive-Design)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Flexbox-Layout-with-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=182848)](https://github.com/JacobGrisham/Flexbox-Layout-with-Responsive-Design)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Float-Layout-with-Advanced-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=182848)](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Grid-Layout-with-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=52c234)](https://github.com/JacobGrisham/Grid-Layout-with-Responsive-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Flexbox-Layout-with-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=52c234)](https://github.com/JacobGrisham/Flexbox-Layout-with-Responsive-Design)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Float-Layout-with-Advanced-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=52c234)](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
 
 ## Web Developer Bootcamp
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&&title_color=fff&text_color=fff&bg_color=30373C&border_color=292E49)](https://github.com/JacobGrisham/Advanced-Express.js)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Introduction-to-API-s&&title_color=fff&text_color=fff&bg_color=30373C&border_color=292E49)](https://github.com/JacobGrisham/Introduction-to-API-s)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&&title_color=fff&text_color=fff&bg_color=30373C&border_color=292E49)](https://github.com/JacobGrisham/Authentication)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&&title_color=fff&text_color=fff&bg_color=30373C&border_color=292E49)](https://github.com/JacobGrisham/RESTful-Routing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Advanced-Express.js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Introduction-to-API-s&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Introduction-to-API-s)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Authentication)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/RESTful-Routing)
 
 # 📊 Github Stats
 [![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&title_color=fff&text_color=fff&bg_color=30373C)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&layout=compact&title_color=fff&text_color=fff&bg_color=30373C)](https://github.com/JacobGrisham/JacobGrisham)
