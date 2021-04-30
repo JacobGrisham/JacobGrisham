@@ -4,10 +4,10 @@ My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco
 # 🏆 Project Showcase
 Full-stack web applications with responsive CSS, tests, and CI/CD to a cloud server. Projects are organized from most recent to least.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=30,#fad390,#f6b93b)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&title_color=fff&text_color=fff&bg_color=30,#fad390,#f6b93b)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&title_color=fff&text_color=fff&bg_color=30,#fad390,#f6b93b)](https://github.com/JacobGrisham/Professional-Portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&title_color=fff&text_color=fff&bg_color=30,#fad390,#f6b93b)](https://github.com/JacobGrisham/YelpCamp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=30,fad390,f6b93b)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&title_color=fff&text_color=fff&bg_color=30,fad390,f6b93b)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&title_color=fff&text_color=fff&bg_color=30,fad390,f6b93b)](https://github.com/JacobGrisham/Professional-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&title_color=fff&text_color=fff&bg_color=30,fad390,f6b93b)](https://github.com/JacobGrisham/YelpCamp)
 
 # 👩‍🏫 Noteworthy Projects From Courses
 Programs that focus on learning computer science concepts or web development technologies. Courses, and the projects within them, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and/or what technologies I used.
