@@ -48,6 +48,3 @@ Programs that focus on learning computer science concepts or web development tec
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Introduction-to-API-s&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Introduction-to-API-s)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Authentication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/RESTful-Routing)
-
-# 📊 Github Stats
-[![Jacob's github stats](https://github-readme-stats.vercel.app/api?username=JacobGrisham&show_icons=true&title_color=fff&text_color=fff&bg_color=30373C)](https://github.com/JacobGrisham/JacobGrisham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobGrisham&layout=compact&title_color=fff&text_color=fff&bg_color=30373C)](https://github.com/JacobGrisham/JacobGrisham)
