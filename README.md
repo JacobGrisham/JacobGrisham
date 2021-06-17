@@ -2,7 +2,16 @@
 My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco.
 
 # 🏆 Project Showcase
-Full-stack web applications polished with responsive CSS, tests, CI/CD, and deployed to a cloud server. Projects are organized from most recent to least.
+High-quality, production-grade full-stack web applications polished with:
+- Unit, integration, and automation tests
+- Performance, security, accessibility, and SEO optimization
+- Responsive CSS
+- Automated code review
+- Continuous integration and continuous delivery (CI/CD)
+- Deployed to a cloud server
+- And much more ...
+
+Projects are organized from most recent to least.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Synthetic-Biology-LIMS&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/Synthetic-Biology-LIMS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
