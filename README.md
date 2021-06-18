@@ -9,6 +9,7 @@ High-quality, production-grade full-stack web applications polished with:
 - Automated code review
 - Continuous integration and continuous delivery (CI/CD)
 - Deployed to a cloud server
+- Google Analytics
 - And much more ...
 
 Projects are organized from most recent to least.
