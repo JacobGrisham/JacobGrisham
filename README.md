@@ -5,10 +5,10 @@ My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco
 High-quality, production-grade full-stack web applications polished with:
 - Unit, integration, and automation tests
 - Performance, security, accessibility, and SEO optimization
-- Responsive CSS
+- Responsive, cross browser compatible CSS
 - Automated code review
-- Continuous integration and continuous delivery (CI/CD)
-- Deployed to a cloud server
+- Runtime optimized continuous integration and continuous delivery (CI/CD)
+- Deployment to a cloud server
 - Google Analytics
 - And much more ...
 
