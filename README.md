@@ -8,8 +8,8 @@ High-quality, production-grade full-stack web applications polished with:
 - Responsive, cross browser compatible CSS
 - Automated code review
 - Runtime optimized continuous integration and continuous delivery (CI/CD)
-- Deployment to a cloud server
-- Google Analytics
+- Deployment in a Docker container to a cloud server and delivered through a content delivery network (CDN)
+- Google Analytics and Google Optimize
 - And much more ...
 
 Projects are organized from most recent to least.
