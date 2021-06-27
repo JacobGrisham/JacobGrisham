@@ -15,6 +15,8 @@ High-quality, production-grade full-stack web applications polished with:
 Projects are organized from most recent to least.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Synthetic-Biology-LIMS&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/Synthetic-Biology-LIMS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Next.js-Docker-Redis-Sessions-JWT&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced-Hooks-and-Redux&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/Professional-Portfolio)
@@ -55,6 +57,7 @@ Programs that focus on learning computer science concepts or web development tec
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Float-Layout-with-Advanced-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=52c234)](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
 
 ## Web Developer Bootcamp
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/YelpCamp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Advanced-Express.js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Introduction-to-API-s&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Introduction-to-API-s)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Authentication)
