@@ -2,7 +2,7 @@
 My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco.
 
 # 🏆 Project Showcase
-High-quality, production-grade full-stack web applications polished with:
+High-quality, production-grade full-stack and front-end web applications polished with:
 - Unit, integration, and automation tests
 - Performance, security, accessibility, and SEO optimization
 - Responsive, cross browser compatible CSS
