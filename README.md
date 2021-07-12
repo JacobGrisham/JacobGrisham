@@ -15,6 +15,7 @@ High-quality, production-grade full-stack and front-end web applications polishe
 Projects are organized from most recent to least.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Synthetic-Biology-LIMS&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Synthetic-Biology-LIMS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Gatsby.js-and-Styled-Components&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/Gatsby.js-and-Styled-Components)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Next.js-Docker-Redis-Sessions-JWT&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced-Hooks-and-Redux&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
