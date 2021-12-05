@@ -1,6 +1,8 @@
 # Hi there 👋
 My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco.
 
+![counter](https://enxdh9cxl0mrlzv.m.pipedream.net)
+
 # 🏆 Project Showcase
 High-quality, production-grade full-stack and front-end web applications polished with:
 - Unit, integration, and automation tests
