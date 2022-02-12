@@ -27,6 +27,7 @@ Projects are organized from most recent to least.
 
 # 🛠 Specific Tools Learned Ad Hoc From Documentation Tutorials
 Sometimes long-form courses don't cover specific web development technologies, especially for relatively newer tools. However, the documentation for most tools have a beginner's tutorial. Here is a collection organized from most recent to least.
+- [AWS Cloud Development Kit (CDK)](https://github.com/JacobGrisham/aws-cdk)
 - [GraphQL](https://github.com/JacobGrisham/graphql)
 
 # 👩‍🏫 Noteworthy Projects From Courses
