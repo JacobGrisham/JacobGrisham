@@ -14,59 +14,59 @@ High-quality, production-grade full-stack and front-end web applications polishe
 
 Projects are organized from most recent to least.
 
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Synthetic-Biology-LIMS&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Synthetic-Biology-LIMS)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Gatsby.js-and-Styled-Components&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/Gatsby.js-and-Styled-Components)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Next.js-Docker-Redis-Sessions-JWT&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced-Hooks-and-Redux&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/Professional-Portfolio)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/YelpCamp)
+- [Synthetic Biology LIMS](https://github.com/JacobGrisham/Synthetic-Biology-LIMS)
+- [Star Wars](https://github.com/JacobGrisham/Gatsby.js-and-Styled-Components)
+- [AI Face Recognition](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
+- [Rolodex](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
+- [Data Structures and Algorithms Visualizer](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
+- [Robynhood](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
+- [Personal Website](https://github.com/JacobGrisham/Professional-Portfolio)
+- [YelpCamp](https://github.com/JacobGrisham/YelpCamp)
 
 # 🛠 Specific Tools Learned Ad Hoc From Documentation Tutorials
 Sometimes long-form courses don't cover specific web development technologies, especially for relatively newer tools. However, the documentation for most tools have a beginner's tutorial. Here is a collection organized from most recent to least.
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=graphql&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/graphql)
+- [GraphQL](https://github.com/JacobGrisham/graphql)
 
 # 👩‍🏫 Noteworthy Projects From Courses
 Programs that focus on learning computer science concepts or web development technologies. Courses, and the projects within them, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and/or what technologies I used.
 
 ## Harvard's CS50W: Web Programming with Python and JavaScript
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Synthetic-Biology-LIMS&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Synthetic-Biology-LIMS)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Commerce-Full-Stack-Web-App-using-Django&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Commerce-Full-Stack-Web-App-using-Django)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Wiki-Full-Stack-Web-App-using-Django&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Wiki-Full-Stack-Web-App-using-Django)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Google-Homepage-HTML-and-CSS&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
+- [Final Project](https://github.com/JacobGrisham/Synthetic-Biology-LIMS)
+- [Twitter Clone](https://github.com/JacobGrisham/Network-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
+- [Microsoft Outlook Clone](https://github.com/JacobGrisham/Mail-Single-Page-Full-Stack-Web-App-using-Django-and-Javascript)
+- [OpenSea Clone](https://github.com/JacobGrisham/Commerce-Full-Stack-Web-App-using-Django)
+- [Wikipedia Clone](https://github.com/JacobGrisham/Wiki-Full-Stack-Web-App-using-Django)
+- [Google Homepage Clone](https://github.com/JacobGrisham/Google-Homepage-HTML-and-CSS)
 
 ## Harvard's CS50X: Introduction to Computer Science
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Data-Structures-and-Algorithms-Visualizer&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Finance-Full-Stack-Web-App-using-Flask-and-SQL&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Star-Wars-Front-End-Web-App-using-Flask&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=DNA-Identification-Algorithm-using-Python&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/DNA-Identification-Algorithm-using-Python)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Spell-Checker-Data-Structures-using-C&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Spell-Checker-Data-Structures-using-C)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Photo-Filters-and-Memory-using-C&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Photo-Filters-and-Memory-using-C)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Photo-Recovery-and-Memory-using-C&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Photo-Recovery-and-Memory-using-C)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Text-Analysis-Arrays-using-C&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Text-Analysis-Arrays-using-C)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Encryption-Arrays-using-C&title_color=fff&text_color=fff&bg_color=30373C&border_color=93291E)](https://github.com/JacobGrisham/Encryption-Arrays-using-C)
+- [Final Project](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
+- [Full-Stack Web App](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
+- [Front-end Web App](https://github.com/JacobGrisham/Star-Wars-Front-End-Web-App-using-Flask)
+- [Python and Algorithms](https://github.com/JacobGrisham/DNA-Identification-Algorithm-using-Python)
+- [Data Structures](https://github.com/JacobGrisham/Spell-Checker-Data-Structures-using-C)
+- [Memory](https://github.com/JacobGrisham/Photo-Filters-and-Memory-using-C)
+- [Memory](https://github.com/JacobGrisham/Photo-Recovery-and-Memory-using-C)
+- [Data Structures](https://github.com/JacobGrisham/Text-Analysis-Arrays-using-C)
+- [Data Structures](https://github.com/JacobGrisham/Encryption-Arrays-using-C)
 
 ## Junior to Senior Web Developer
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Next.js-Docker-Redis-Sessions-JWT&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced-Hooks-and-Redux&title_color=fff&text_color=fff&bg_color=30373C&border_color=8E2DE2)](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
+- [AI Face Recognition](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
+- [Rolodex](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
 
 ## Complete Web Developer Bootcamp
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Advanced&&title_color=fff&text_color=fff&bg_color=30373C&border_color=00c6ff)](https://github.com/JacobGrisham/React.js-Advanced)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=React.js-Fundamentals&&title_color=fff&text_color=fff&bg_color=30373C&border_color=00c6ff)](https://github.com/JacobGrisham/React.js-Fundamentals)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript-and-Jquery&&title_color=fff&text_color=fff&bg_color=30373C&border_color=00c6ff)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript-and-Jquery)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=DOM-Manipulation-using-Javascript&&title_color=fff&text_color=fff&bg_color=30373C&border_color=00c6ff)](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript)
+- [Advanced React](https://github.com/JacobGrisham/React.js-Advanced)
+- [Basic React](https://github.com/JacobGrisham/React.js-Fundamentals)
+- [DOM Manipulation with JS and jQuery](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript-and-Jquery)
+- [DOM Manipulation with JS](https://github.com/JacobGrisham/DOM-Manipulation-using-Javascript)
 
 ## Advanced CSS and Sass
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Grid-Layout-with-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=52c234)](https://github.com/JacobGrisham/Grid-Layout-with-Responsive-Design)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Flexbox-Layout-with-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=52c234)](https://github.com/JacobGrisham/Flexbox-Layout-with-Responsive-Design)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Float-Layout-with-Advanced-Responsive-Design&&title_color=fff&text_color=fff&bg_color=30373C&border_color=52c234)](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
+- [Grid](https://github.com/JacobGrisham/Grid-Layout-with-Responsive-Design)
+- [Flexbox](https://github.com/JacobGrisham/Flexbox-Layout-with-Responsive-Design)
+- [Float](https://github.com/JacobGrisham/Float-Layout-with-Advanced-Responsive-Design)
 
 ## Web Developer Bootcamp
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/YelpCamp)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Advanced-Express.js&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Advanced-Express.js)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Introduction-to-API-s&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Introduction-to-API-s)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Authentication&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/Authentication)
-[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=RESTful-Routing&&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/RESTful-Routing)
+- [Final Project](https://github.com/JacobGrisham/YelpCamp)
+- [Express.js](https://github.com/JacobGrisham/Advanced-Express.js)
+- [APIs](https://github.com/JacobGrisham/Introduction-to-API-s)
+- [Authentication](https://github.com/JacobGrisham/Authentication)
+- [REST](https://github.com/JacobGrisham/RESTful-Routing)
