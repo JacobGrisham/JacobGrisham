@@ -1,6 +1,8 @@
 # Hi there 👋
 My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco. This is my personal GitHub account. I'm currently a Software Engineer at PowerSchool and my Professional PowerSchool GitHub account is [JacobGrishamPowerSchool](https://github.com/JacobGrishamPowerSchool).
 
+I primarily use this page to group my repos together, organize them within their group, and provide context for the group as a whole.
+
 # 🏆 Project Showcase
 High-quality, production-grade full-stack and front-end web applications polished with:
 - Unit, integration, and automation tests
