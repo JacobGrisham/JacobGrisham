@@ -23,6 +23,10 @@ Projects are organized from most recent to least.
 [![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=Professional-Portfolio&title_color=fff&text_color=fff&bg_color=30373C&border_color=FFD200)](https://github.com/JacobGrisham/Professional-Portfolio)
 [![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=YelpCamp&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/YelpCamp)
 
+# 🛠 Specific Tools Learned Ad Hoc From Documentation Tutorials
+Sometimes long-form courses don't cover specific web development technologies, especially for relatively newer tools. However, the documentation for most tools have a beginner's tutorial. Here is a collection organized from most recent to least.
+[![ReadMe Card](https://github-readme-stats-jacobgrisham.vercel.app/api/pin/?username=JacobGrisham&repo=graphql&title_color=fff&text_color=fff&bg_color=30373C&border_color=ffffff)](https://github.com/JacobGrisham/graphql)
+
 # 👩‍🏫 Noteworthy Projects From Courses
 Programs that focus on learning computer science concepts or web development technologies. Courses, and the projects within them, are organized from most recent to least. The naming convention for the repositories are based on what topic(s) I learned and/or what technologies I used.
 
