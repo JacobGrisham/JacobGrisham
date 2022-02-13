@@ -25,8 +25,8 @@ Projects are organized from most recent to least.
 - [Personal Website](https://github.com/JacobGrisham/Professional-Portfolio)
 - [YelpCamp](https://github.com/JacobGrisham/YelpCamp)
 
-# 🛠 Specific Tools Learned Ad Hoc From Documentation Tutorials
-Sometimes long-form courses don't cover specific web development technologies, especially for relatively newer tools. However, the documentation for most tools have a beginner's tutorial. Here is a collection organized from most recent to least.
+# 🛠 Specific Tools From Documentation Tutorials
+Sometimes long-form courses don't cover specific web development technologies that I need to learn. This is especially true for relatively newer tools. Good news is that the documentation for most tools have a beginner's tutorial. Here is a collection organized from most recent to least.
 - [AWS Cloud Development Kit (CDK)](https://github.com/JacobGrisham/aws-cdk)
 - [GraphQL](https://github.com/JacobGrisham/graphql)
 
