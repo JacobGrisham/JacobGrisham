@@ -27,6 +27,7 @@ Projects are organized from most recent to least.
 
 # 🛠 Specific Tools From Documentation Tutorials
 Sometimes long-form courses don't cover specific web development technologies that I need to learn. This is especially true for relatively newer tools. Good news is that the documentation for most tools have a beginner's tutorial. Here is a collection organized from most recent to least.
+- [Elasticsearch](https://github.com/JacobGrisham/elasticsearch)
 - [AWS Cloud Development Kit (CDK)](https://github.com/JacobGrisham/aws-cdk)
 - [GraphQL](https://github.com/JacobGrisham/graphql)
 
