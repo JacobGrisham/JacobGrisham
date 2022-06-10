@@ -1,5 +1,5 @@
 # 👋 Hi there
-My name is Jacob Grisham and I'm a Full-Stack Software Engineer in San Francisco. This is my personal GitHub account. My professional GitHub account is [JacobGrishamPowerSchool](https://github.com/JacobGrishamPowerSchool).
+I'm a Full-Stack Software Engineer in San Francisco. This is my personal GitHub account. My professional GitHub account is [JacobGrishamPowerSchool](https://github.com/JacobGrishamPowerSchool).
 
 I primarily use this page to group my repos together, organize them within their group, and provide context for the group as a whole.
 
