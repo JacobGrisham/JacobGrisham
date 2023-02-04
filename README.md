@@ -21,8 +21,8 @@ Projects are organized from most recent to least.
 - [AI Face Recognition](https://github.com/JacobGrisham/Next.js-Docker-Redis-Sessions-JWT)
 - [Rolodex](https://github.com/JacobGrisham/React.js-Advanced-Hooks-and-Redux)
 - [Data Structures and Algorithms Visualizer](https://github.com/JacobGrisham/Data-Structures-and-Algorithms-Visualizer)
-- [Robynhood](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
-- [Personal Website](https://github.com/JacobGrisham/Professional-Portfolio)
+- [Wall Street Trader](https://github.com/JacobGrisham/Finance-Full-Stack-Web-App-using-Flask-and-SQL)
+- [Professional Portfolio](https://github.com/JacobGrisham/Professional-Portfolio)
 - [YelpCamp](https://github.com/JacobGrisham/YelpCamp)
 
 # 🛠 Specific Tools From Documentation Tutorials
